@@ -54,4 +54,4 @@ The dataset consists of 4 columns:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/DSL251-food-delivery-analysis.git
+   https://github.com/iamshashankyadav/DSL251-data-analysis.git
